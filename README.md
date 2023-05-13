@@ -8,5 +8,5 @@
 * Finalizado(#status-do-Projeto)
 * O sistema conta com um display lcd que mostra se a temperatura, umidade e luminosidade estão adequadas para o ambiente vinheria (para qual foi desenvolvido). Caso, principalmente, a luminosidade esteja inadequada (claro demais) será acionado um buzzer e a luz ficara vermelha(caso temperatura e umidade estejam inadequadas, a luz vermelha também será acesa). Caso contrário (Ambiente adequado) a luz verde estará, o tempo todo, acesa.(#funcionalidades-e-demonstração-da-aplicação)
 *https://www.tinkercad.com/things/lozqRX4XEmA-sensor-de-umidade-temperatura-e-iluminacao-/editel?sharecode=eHsl2G_AjO2NutRqDzMLN4cxH9jRI1tqyH7z_2vzhJk(#acesso-ao-projeto)
-* ´´C++`` (#tecnologias-utilizadas)
+* ''C++''(#tecnologias-utilizadas)
 
